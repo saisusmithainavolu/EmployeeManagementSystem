@@ -1,8 +1,5 @@
 # Employee Management System 
 
-User should be able to perform crud opertions like Add(Post), List one OR List All(Get), Update(Put), Delete(Delete) on Employee and Department Modules.
-
-
 ## Technology Stack
 **Java Platform**	  : Java 17
 

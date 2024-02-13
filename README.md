@@ -1,15 +1,18 @@
 # Employee Management System 
 
+User should be able to perform crud opertions like Add(Post), List one OR List All(Get), Update(Put), Delete(Delete) on Employee and Department Modules.
+
+
 ## Technology Stack
 **Java Platform**	  : Java 17
 
 **Java Frameworks**	 : Spring Framework, Spring Boot, Spring Security and Spring Data JPA
 
-**Front End Development** :  ReactJS
+**Front End Development** :  ReactJS, Vite Js, BootStrap CSS, JavaScript, NPM, Axios
 
 **Build Tool**	: Maven
 
-**IDE**	 : IntelliJ IDEA 
+**IDE**	 : IntelliJ IDEA, Visual Studio Code
 
 **Server**	: Tomcat server
 

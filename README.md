@@ -26,5 +26,7 @@ In the context of Maven, a dependency is a JAR file used by a Java application. 
 
 ## Database Connection
 Connection to MYSQL database is configured in “application.properties” file as follows:
+
+![dbconnection](dbconnection.png)
  
 
